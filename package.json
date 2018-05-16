@@ -1,6 +1,6 @@
 {
   "name": "@voxpelli/passport-dummy",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Dummy authentication strategy for Passport.",
   "author": "Adrian Rossouw <adrian@developmentseed.org> (http://developmentseed.org/)",
   "main": "./lib/passport-dummy",
