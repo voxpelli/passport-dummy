@@ -1,5 +1,5 @@
 {
-  "name": "passport-dummy",
+  "name": "@voxpelli/passport-dummy",
   "version": "0.0.1",
   "description": "Dummy authentication strategy for Passport.",
   "author": "Adrian Rossouw <adrian@developmentseed.org> (http://developmentseed.org/)",
@@ -7,6 +7,13 @@
   "dependencies": {
     "passport-strategy": "^1.0.0"
   },
-  "engines": { "node": ">= 0.4.0" },
-  "keywords": ["passport", "auth", "authentication", "identity"]
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "authentication",
+    "identity"
+  ]
 }

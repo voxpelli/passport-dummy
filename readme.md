@@ -1,10 +1,11 @@
-# Passport-Dummy
+# @voxpelli/passport-dummy
 
 [Passport](https://github.com/jaredhanson/passport) strategy for dummy authentication.
+Fork of [developmentseed/passport-dummy](https://github.com/developmentseed/passport-dummy) (due to critical PR:s not being merged).
 
 ## Installation
 
-    $ npm install passport-dummy
+    $ npm install @voxpelli/passport-dummy
 
 ## Usage
 
